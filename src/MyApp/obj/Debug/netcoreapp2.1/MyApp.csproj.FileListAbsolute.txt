@@ -1,0 +1,14 @@
+C:\RepoWsh\src\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+C:\RepoWsh\src\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+C:\RepoWsh\src\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+C:\RepoWsh\src\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+C:\RepoWsh\src\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+C:\RepoWsh\src\MyApp\obj\Debug\netcoreapp2.1\MyApp.csprojAssemblyReference.cache
+C:\RepoWsh\src\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+C:\RepoWsh\src\MyApp\obj\Debug\netcoreapp2.1\MyApp.RazorAssemblyInfo.cache
+C:\RepoWsh\src\MyApp\obj\Debug\netcoreapp2.1\MyApp.RazorAssemblyInfo.cs
+C:\RepoWsh\src\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+C:\RepoWsh\src\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+C:\RepoWsh\src\MyApp\obj\Debug\netcoreapp2.1\MyApp.RazorTargetAssemblyInfo.cache
+C:\RepoWsh\src\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+C:\RepoWsh\src\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
