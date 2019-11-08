@@ -1,4 +1,3 @@
-Gerard Castello 12:45
 language: csharp
 mono: none
 dotnet: 2.2
@@ -7,4 +6,3 @@ branches:
     - master
 script:
  - dotnet build ./src/MyApp/MyApp.csproj
- - dotnet test ./tests/UnitTests/UnitTests.csproj
