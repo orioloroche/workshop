@@ -1,8 +1,9 @@
 language: csharp
 mono: none
-dotnet: 2.2
+dotnet: 2.1.0.0
 branches:
   only:
     - master
 script:
  - dotnet build ./src/MyApp/MyApp.csproj
+d
